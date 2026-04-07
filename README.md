@@ -64,7 +64,7 @@ The sessions are saved in the following JSON format:
 
 <h2>Output</h2>
 
-![Session Summary](<Screenshot 2026-04-07 071600.png>)
+![Session Summary](https://i.ibb.co/5xzTz4wq/Screenshot-2026-04-07-071600.png)
 
 <h2>What I Learned Today</h2>
 
