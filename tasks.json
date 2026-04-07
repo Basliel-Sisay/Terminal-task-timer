@@ -1,0 +1,10 @@
+[
+    { "task":"This is my timer.js test",
+       "duration":39,
+       "date":"2026-04-07T03:29:51.572Z"
+    },
+    { "task":"this is my second test of timer.js to see if the log have changed",
+      "duration":1,
+      "date":"2026-04-07T03:37:45.373Z"
+    }
+]
